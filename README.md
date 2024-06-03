@@ -1,2 +1,2 @@
-# ECE-practice-BIT-computer-programming-
-北京理工大学网络空间安全专业ECE实习课程
+# ECE-A-practice-BIT-computer-programming-A
+ECE Internship Course for Cyberspace Security at Beijing Institute of Technology - Microcontroller related
